@@ -339,3 +339,4 @@ For support and questions:
 - Create an issue in the GitHub repository
 - Check the documentation
 - Review Firebase Console for configuration issues
+# Tournament-web-app
